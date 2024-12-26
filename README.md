@@ -37,7 +37,7 @@
 - **Node.js** for building the scalable, lightweight backend.
 - **Socket.io** for handling real-time messaging and signaling.
 - **Express.js** for routing and server-side API endpoints.
-- **HTML5**, **CSS3**, and **JavaScript** for a responsive frontend.
+- **REACT** for a responsive frontend.
 - **MongoDB** (or other databases, if applicable) for storing user data and meeting details (if needed).
 
 ## Benefits
