@@ -2,8 +2,9 @@
 
 **Google Meet Replica** is a lightweight, high-performance video conferencing application that replicates the core features of Google Meet, built with **WebRTC** for real-time communication and **Node.js** for server-side operations. This project provides a fully functional, easy-to-use platform for online meetings, video calls, and collaborations. It’s designed to work seamlessly even on VPS servers, making it an excellent solution for developers seeking a simple yet powerful video conferencing tool.
 <img width="1792" alt="Screenshot 2024-12-26 at 12 23 13 PM" src="https://github.com/user-attachments/assets/eab315d5-46c0-490b-9bf4-45d5c6ba64e9" />
-![Screenshot 2024-12-26 123402-fotor-2024122612484](https://github.com/user-attachments/assets/61299dee-cd9a-4565-a452-702c3977b64a)
 
+![Screenshot 2024-12-26 123215-fotor-20241226124734](https://github.com/user-attachments/assets/bff4664f-7947-4d44-bc7a-c178922100a7)
+![Screenshot 2024-12-26 123402-fotor-2024122612484](https://github.com/user-attachments/assets/61299dee-cd9a-4565-a452-702c3977b64a)
 ## Key Features
 
 - 🔹 **Real-time Video and Audio Communication**  
